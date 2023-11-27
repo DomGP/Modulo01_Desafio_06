@@ -10,7 +10,7 @@
     box-sizing: border-box;
 }
 body{
-    color: grey;
+    color: rgb(74, 74, 74);
     font-family:Rubik ;
 }
 nav{
@@ -36,9 +36,11 @@ header{
 h1{
     font-size: 5.5rem;
     color: grey;
+    font-weight: bold;
 }
 .p-title{
-    font-size: 1.5rem;
+    font-size: 1.3rem;
+    font-weight: bold;
 }
 section{
     text-align: center;
@@ -52,6 +54,9 @@ h3{
 }
 .section-p{
     text-align: justify;
+}
+main{
+    text-align: center;
 }
 .cards{
     background-color: #f0e4e4;
