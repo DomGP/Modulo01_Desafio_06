@@ -1,0 +1,71 @@
+/* Importación de fuente */
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400&display=swap');
+@font-face {
+    font-family: 'miFuente';
+    src: url('../fonts/LeckerliOne-Regular.ttf');
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    color: grey;
+    font-family:Rubik ;
+}
+nav{
+    background-color: #f0e4e4;
+}
+.title{
+    font-family: miFuente;
+    font-size: 1.5rem;
+}
+i{
+    margin-left: 10px;
+    margin-right: 20px;
+}
+header{
+    background-image: url(../imgs/space-5654794_19202.png);
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-right: 100px;
+}
+
+h1{
+    font-size: 5.5rem;
+    color: grey;
+}
+.p-title{
+    font-size: 1.5rem;
+}
+section{
+    text-align: center;
+}
+h2{
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+h3{
+    padding-bottom: 20px;
+}
+.section-p{
+    text-align: justify;
+}
+.cards{
+    background-color: #f0e4e4;
+    justify-content: center;
+}
+.article{
+    text-align: center;
+}
+.article button{
+    margin-bottom: 20px;
+}
+.footer{
+    background-color: #f0e4e4;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
