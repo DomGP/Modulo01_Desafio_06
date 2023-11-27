@@ -62,6 +62,9 @@ main{
     background-color: #f0e4e4;
     justify-content: center;
 }
+.card{
+    border: solid 2px lightslategray;
+}
 .article{
     text-align: center;
 }
