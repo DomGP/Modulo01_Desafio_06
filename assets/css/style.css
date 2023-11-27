@@ -64,6 +64,7 @@ main{
 .card{
     border: solid 2px lightslategray;
     margin-top: 40px;
+    border-radius: 0.32rem;
 }
 .article{
     text-align: center;
