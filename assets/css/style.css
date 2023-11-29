@@ -44,7 +44,7 @@ h1{
 }
 /* Style para la sección de educación */
 .style-educacion{
-    margin-top: 50px;
+    margin-top: 20px;
     margin-bottom: 60px;
     
 }
@@ -55,7 +55,7 @@ h1{
 /* Style para la sección de experiencia */
 .style-experiencia{
     background-color: #f0e4e4;
-    padding-top: 50px;
+    padding-top: 20px;
     padding-bottom: 60px;
 }
 .style-experiencia h2{
@@ -67,7 +67,7 @@ section{
     text-align: center;
 }
 .style-gustos{
-    margin-top: 50px;
+    margin-top: 20px;
     margin-bottom: 60px;
 }
 .style-gustos h2{
@@ -91,7 +91,7 @@ main{
 .cards{
     background-color: #f0e4e4;
     justify-content: center;
-    padding-top: 50px;
+    padding-top: 20px;
     padding-bottom: 60px;
 }
 .cards h2{
