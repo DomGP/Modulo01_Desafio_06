@@ -13,6 +13,7 @@ body{
     color: rgb(74, 74, 74);
     font-family:Rubik ;
 }
+/* Style para la sección del navbar */
 nav{
     background-color: #f0e4e4;
 }
@@ -24,6 +25,7 @@ i{
     margin-left: 10px;
     margin-right: 20px;
 }
+/* Style para la sección de Header donde está el título principal de la página */
 header{
     background-image: url(../imgs/space-5654794_19202.png);
     background-repeat: no-repeat;
@@ -32,7 +34,6 @@ header{
     padding-bottom: 150px;
     padding-right: 100px;
 }
-
 h1{
     font-size: 5.5rem;
     font-weight: bold;
@@ -41,8 +42,37 @@ h1{
     font-size: 1.3rem;
     font-weight: bold;
 }
+/* Style para la sección de educación */
+.style-educacion{
+    margin-top: 50px;
+    margin-bottom: 60px;
+    
+}
+.style-educacion h2{
+    margin-bottom: 50px;
+    text-decoration: underline;
+}
+/* Style para la sección de experiencia */
+.style-experiencia{
+    background-color: #f0e4e4;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.style-experiencia h2{
+    margin-bottom: 50px;
+    text-decoration: underline;
+}
+/* Style para la sección donde está la información sobre Acerca de mí */
 section{
     text-align: center;
+}
+.style-gustos{
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+.style-gustos h2{
+    margin-bottom: 20px;
+    text-decoration: underline;
 }
 h2{
     padding-top: 20px;
@@ -54,24 +84,37 @@ h3{
 .section-p{
     text-align: justify;
 }
+/* Style para la sección de cards */
 main{
     text-align: center;
 }
 .cards{
     background-color: #f0e4e4;
     justify-content: center;
+    padding-top: 50px;
+    padding-bottom: 60px;
+}
+.cards h2{
+    margin-bottom: 20px;
+    text-decoration: underline;
 }
 .card{
     border: solid 2px lightslategray;
     margin-top: 40px;
     border-radius: 0.32rem;
 }
+/* Style para la sección donde se encuentra el formulario */
 .article{
     text-align: center;
+}
+.article h2{
+    margin-bottom: 20px;
+    text-decoration: underline;
 }
 .article button{
     margin-bottom: 20px;
 }
+/* Style para la sección de Footer */
 .footer{
     background-color: #f0e4e4;
     text-align: center;
