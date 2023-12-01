@@ -1,4 +1,4 @@
-#Proyectos forkeados a compañeros
+# Proyectos forkeados a compañeros
 
 Proyecto forkeado N°1: https://github.com/DomGP/desarrollo_de_portafolio
 
